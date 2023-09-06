@@ -25,24 +25,18 @@ https://drive.google.com/file/d/1i0FRo90DiDIx4l728VzAhJP6x3vmLDX2/view?usp=shari
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/mJZtZ3P/Copy-of-Final-Version-Orbital-Poster-Facebook-Post-Landscape.png" alt="Copy-of-Final-Version-Orbital-Poster-Facebook-Post-Landscape" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/peep'" alt="Logo" width="80" height="80">
   </a>
-
-<h3 align="center">project_title</h3>
+  
+<h3 align="center">Dungeon Boss Simulator</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href= https://docs.google.com/document/d/1p9ugRwdxi4-ltKxZ1C6GcVTMZsNfx1ONNnguiXJrqAk/edit ><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -219,7 +213,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: [https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge]
 [contributors-url]: https://github.com/teoks0199/DungeonBossSimulator
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
